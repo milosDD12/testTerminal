@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import UIKit
+extension UIColor {
+    func milos(){
+        print("test")
+    }
+}
